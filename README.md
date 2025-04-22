@@ -1,6 +1,7 @@
 # Machine Learning
 ---
 
-- **Exercise 1** :white_check_mark: - [Jupyter notebook](./025_Exercises.ipynb)
-- **Exercise 2** :white_check_mark: - [Jupyter notebook](./047Clustering_Exercises.ipynb)
-- **Exercise 3** :white_check_mark: - [Jupyter notebook](./055Decision_trees_Exercises.ipynb)
+- **Exercise 1** :white_check_mark: - [025_Exercises](./025_Exercises.ipynb)
+- **Exercise 2** :white_check_mark: - [047Clustering_Exercises](./047Clustering_Exercises.ipynb)
+- **Exercise 3** :white_check_mark: - [055Decision_trees_Exercises](./055Decision_trees_Exercises.ipynb)
+- **Exercise 4** :white_check_mark: - [065_SVM_Exercises](./065_SVM_Exercises.ipynb)
